@@ -28,7 +28,8 @@ $(document).ready(function(){
 		var clas = $(this).attr('class');
 		var check = $('input[type="checkbox"].'+clas+':checked').length;
 		
-		if(check > (al-1)){
+		//if(check > (al-1)){
+		if(check > (0)){
 			$('input[type="checkbox"].'+clas).not(':checked').attr('disabled', true);
 		}else{
 			$('input[type="checkbox"].'+clas).not(':checked').attr('disabled', false);

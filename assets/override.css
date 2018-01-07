@@ -74,12 +74,14 @@
     color: #29303b;
 }
 
+.course-links{position: absolute;bottom: 10px;}
 .course-links span{margin:0 20px 0 0;}
 .course-price{position:absolute;top:45px;right:0;font-size: 27px;}
 .course-price span{display:block;text-align:center;font-weight:bold;}
 
 
 @media screen and (max-width:1320px){
+	.course-links{position:unset!important;bottom:auto;}
     .course-details {
      max-width: 480px;
     }

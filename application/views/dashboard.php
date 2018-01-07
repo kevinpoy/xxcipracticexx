@@ -19,12 +19,12 @@
 				<div class="course-details">
 					<h2>The Python Bible™ | Everything You Need to Program in Python</h2>
 					<span>Ziyad Yehia• Energetic Udemy Instructor with a Project-based Approach</span>
-					<p>Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!</p>
-					<div class="course-links">
-						<span><i class="fa fa-flask" aria-hidden="true"></i> Intermediate Level</span>
-						<span><i class="fa fa-cc" aria-hidden="true"></i> English</span>
-					</div>					
+					<p>Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!</p>				
 				</div>
+				<div class="course-links">
+					<span><i class="fa fa-flask" aria-hidden="true"></i> Intermediate Level</span>
+					<span><i class="fa fa-cc" aria-hidden="true"></i> English</span>
+				</div>	
 				<div class="course-price">
 					<span>$10.99</span>
 				</div>
